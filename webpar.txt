@@ -1,0 +1,150 @@
+Objek Wisata Alam
+Di sekitar Kabupaten Majalengka
+
+
+#---------- HEADER ----------#
+Beranda
+Daftar Paket Wisata
+Modifikasi Pesanan
+
+-----------------------------------------------------------------------
+Penjelasan Bagian Header:
+Bagian header pada website pariwisata ini terletak di bagian paling atas 
+halaman dan berfungsi sebagai identitas utama situs. Header dilengkapi 
+dengan nama brand/slogan yang mencerminkan nilai dari bisnis pariwisata. 
+Desain header dirancang dengan latar belakang menarik, dengan gambar 
+objek wisata yang ada di daerah majalengka. 
+
+Selain header terdapat menu navigasi yang berada tepat di bawah header. 
+Berfungsi untuk mempermudah pengguna menjelajahi halaman-halaman 
+utama website. Menu ini berbentuk bar horizontal dengan beberapa tab, 
+seperti Beranda, Daftar Paket Wisata yang akan menggarahkan pada 
+tampilan form pemesanan, dan Modifikasi Pesanan yang akan mengarah 
+pada tampilan daftar pesanan. Desain yang dibuat intuitif dan responsif, 
+memungkinkan pengguna untuk berpindah antarhalaman dengan cepat.  
+
+
+#---------- KONTEN PARIWISATA ----------#
+Paket Wisata
+------------
+Buper Awilega
+Camping Ground Curug Leles
+Talaga Pancar
+Ciboer Pass & Villa Ciboer Pass
+
+Video Promosi
+-------------
+Paket Wisata 1
+Buper Awilega
+
+Paket Wisata 2
+Camping Ground Curug Leles
+
+Paket Wisata 3
+Talaga Pancar
+
+Paket Wisata 4
+Ciboer Pass & Villa Ciboer Pass
+
+-----------------------------------------------------------------------
+Penjelasan Bagian Content:
+Selanjutnya yaitu terdapat content, merupakan bagian utama dari website, 
+yang memuat informasi penting tentang layanan wisata. Bagian ini terdiri 
+dari dua komponen utama, yaitu daftar paket wisata dan video promosi. 
+Daftar paket wisata menampilkan informasi detail seperti nama wisata, 
+gambar, deskripsi beserta fasilitasnya. Setiap paket dilengkapi tombol 
+"Daftar" untuk mempermudah pemesanan. Sementara itu, video promosi 
+menyajikan pengalaman visual berupa tur virtual, testimoni pelanggan, atau 
+aktivitas wisata, yang dapat dilihat langsung melalui pemutar video 
+responsif.
+
+
+#---------- DAFTAR PAKET WISATA ----------#
+Bagian ini merupakan formulir pemesanan paket wisata untuk user.
+Dimana dalam halaman ini user harus mengisi formulir seperti yang tertera dibawah ini:
+
+From Pemesanan Paket Wisata
+---------------------------
+Nama Paket
+Nama Pemesanan
+Nomer Telpon
+Tanggal Pesanan
+Waktu Pelaksanaan Perjalanan
+Pelayanan Paket Perjalanan
+* Transportasi Rp.50.000
+* Makan Rp.70.000
+Jumlah Peserta
+Harga Paket Perjalanan
+Jumlah Tagihan
+
+Simpan
+Hitung
+Reset
+
+---------------------------------------------------------------------
+Penjelasan Bagian Form Pemesanan/Pendaftaran:
+Formulir pemesanan didesain interaktif dan terintegrasi dalam website 
+untuk mempermudah proses pemesanan. Formulir ini mencakup input 
+untuk nama paket wisata, nama pemesan, nomer telepon, tanggal 
+pemesanan, waktu pelaksanaan perjalanan, layanan tambahan seperti 
+transportasi, layanan makan, jumlah peserta, harga paket yang di butuhkan 
+dan jumlah tagihan yang perlu dikeluarkan. Selanjutnya tombol simpan 
+yang berfungsi untuk menyimpan isi form ke dalam database, tombol hitung 
+untuk menghitung harga paket perjalanan dan jumlah tagihan dan tombol 
+hapus untuk menghapus semua isi form. Form pemesanan memastikan 
+semua informasi diisi dengan benar sebelum dikirim. Setelah data dikirim, 
+notifikasi konfirmasi akan ditampilkan kepada pengguna, memberikan 
+kejelasan bahwa pesanan berhasil dilakukan. 
+
+
+#---------- MODIFIKASI PESANAN ----------#
+Bagian ini merupakan daftar list pemesanan.
+User juga dapat membatalkan atau mengedit pesanan yang sudah dibuat.
+
+Daftar Pesanan
+--------------
+No
+Paket Wisata
+Nama Pemesanan
+Phone
+Jumlah Peserta
+Jumlah Hari
+Transportasi
+Makan
+Harga Paket
+Total Tagihan 
+Aksi
+*Edit
+*Hapus
+
+-------------------------------------------------------------------------
+Penjelasan Tabel Daftar Pesanan:
+Tabel daftar pesanan menyediakan informasi lengkap mengenai pemesanan 
+yang telah dilakukan oleh pelanggan. Dalam tabel ini, ditampilkan no, id 
+paket wisata, nama pemesan, nomer telepon, jumlah peserta, tayanan 
+tambahan seperti transportasi dan makanan, harga paket wisata, total 
+tagihan dan aksi yang berisi tombol edit untuk mengedit isi yang sudah 
+masuk kedalam sistem dan hapus untuk membataskan proses pemesanan. 
+Fitur edit dan hapus digunakan untuk memberikan fleksibilitas kepada user 
+dalam mengelola pemesanan mereka. 
+
+
+#---------- FOOTER ----------#
+Rofi Fitriyani Web Pariwisata 2024
+
+-------------------------------------------------------------------
+Penjelasan Bagian Footer:
+Footer terletak di bagian paling bawah halaman dan berisi informasi 
+tambahan yang penting bagi pengguna. Informasi yang ditampilkan 
+mencakup hak cipta. Footer ini memberikan kesan akhir yang profesional 
+dan biasanya mempermudah akses informasi lebih lanjut.
+
+#--------------------------------- KESIMPULAN ---------------------------------#
+Setiap bagian dari website ini dirancang dengan fokus pada kemudahan 
+pengguna, mulai dari header yang berfungsi sebagai identitas, menu navigasi yang 
+mempermudah akses, hingga content yang memberikan informasi detail dan visual 
+menarik. Form pemesanan dan tabel daftar pesanan menyediakan sistem yang 
+terstruktur untuk pemesanan dan pengelolaan data pelanggan. Semua elemen, 
+termasuk footer yang informatif, dibuat responsif untuk mendukung berbagai 
+perangkat, sehingga memberikan pengalaman pengguna yang optimal dan 
+mendukung kebutuhan pariwisata secara efektif.
